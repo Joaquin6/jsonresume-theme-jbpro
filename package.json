@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "description": "Boilerplate theme for JSON Resume",
   "author": "Joaquin Briceno",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Joaquin6/jsonresume-theme-jbpro"
   },
-  "license": "MIT",
+  "scripts": {
+    "start": "resume serve"
+  },
   "dependencies": {
     "handlebars": "^4.7.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "resume-cli": "^2.0.0"
   }
 }
