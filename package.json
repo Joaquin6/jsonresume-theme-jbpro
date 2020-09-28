@@ -1,0 +1,11 @@
+{
+  "name": "jsonresume-theme-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate theme for JSON Resume",
+  "author": "Joaquin Briceno",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joaquin6/jsonresume-theme-jbpro"
+  },
+  "license": "MIT"
+}
